@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace uri1003
+namespace SOMA
 {
     class Program
     {
